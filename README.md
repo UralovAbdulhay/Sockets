@@ -1,2 +1,4 @@
 # Socket
-This is a chat which works over Socket (tcp) connection.
+This is a chat which works over a Socket (TCP) connection.
+JavaFX (desktop platform) is used as UI. 
+
